@@ -37,6 +37,7 @@ view: history_view {
       raw,
       time,
       date,
+      minute,
       hour_of_day,
       week,
       month,
